@@ -1,6 +1,6 @@
 # SpringUMA — Medical Records System
 
-[![Build Status](https://github.com/alexcalvo0101/TU_REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/TU_USUARIO/TU_REPO/actions/workflows/ci.yml)
+[![Build Status](https://github.com/alexcalvo0101/practica6/actions/workflows/ci.yml/badge.svg)](https://github.com/TU_USUARIO/TU_REPO/actions/workflows/ci.yml)
 
 > ⚠️ Replace `<YOUR_USER>` and `<YOUR_REPO>` with your actual GitHub account details.
 
